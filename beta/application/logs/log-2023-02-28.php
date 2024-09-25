@@ -1,0 +1,11 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-02-28 09:01:11 --> Severity: Error --> Maximum execution time of 30 seconds exceeded D:\xampp\htdocs\jconnect\system\database\drivers\mysqli\mysqli_driver.php 203
+ERROR - 2023-02-28 14:06:42 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990
+ERROR - 2023-02-28 14:39:55 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990
+ERROR - 2023-02-28 14:52:15 --> Severity: Notice --> Undefined variable: logins D:\xampp\htdocs\jconnect\application\controllers\Register.php 645
+ERROR - 2023-02-28 14:52:15 --> Severity: Notice --> Undefined variable: logins D:\xampp\htdocs\jconnect\application\controllers\Register.php 698
+ERROR - 2023-02-28 14:52:15 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990
+ERROR - 2023-02-28 14:57:10 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990
+ERROR - 2023-02-28 16:25:26 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990
+ERROR - 2023-02-28 17:25:53 --> Severity: Warning --> fsockopen(): unable to connect to ssl://mail.jconnect.co.id:465 (Unable to find the socket transport &quot;ssl&quot; - did you forget to enable it when you configured PHP?) D:\xampp\htdocs\jconnect\system\libraries\Email.php 1990

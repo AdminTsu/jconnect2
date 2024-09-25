@@ -1,0 +1,12 @@
+::-moz-selection { background: #fe57a1; color: #fff; text-shadow: none; }
+::selection { background: #fe57a1; color: #fff; text-shadow: none; }
+
+body{
+	padding-top:40px;
+}
+.dpic
+{
+	margin:10px;
+	border-radius:10px;
+	border:1px solid #ccc;
+}

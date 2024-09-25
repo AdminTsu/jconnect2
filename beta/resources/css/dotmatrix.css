@@ -1,0 +1,22 @@
+.body { 
+    font-family: verdana,arial,sans-serif;
+    margin-left:0mm;
+  }
+  table {
+    font-family: Arial,verdana,arial,sans-serif;
+    letter-spacing: 6px;
+    font-size:13px;
+    color:#333333;
+    border-width: 1px;
+    border-color: #666666;
+    border-collapse: collapse;
+  } 
+  table th {
+    font-size:13px;
+    border-width: 1px;
+    letter-spacing: 2px;
+    padding: 2px;
+    border-style: dotted;
+    border-color: #666666;
+    font-weight:bold;
+  }   

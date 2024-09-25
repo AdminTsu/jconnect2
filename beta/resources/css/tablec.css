@@ -1,0 +1,59 @@
+
+table.pc-table {
+	margin: 30px;	
+	margin-left:39px;
+	width:862px;
+}
+table.pc-table th {
+	vertical-align:middle;
+	height:39px;
+	color:#b2b2b2;
+	font-size:12px;
+	line-height:16px;
+	text-align:left;
+	padding-left:15px;
+	padding-right:15px;
+	font-weight:bold;
+	background:url(../img/bg-table-header.png) repeat-x;
+}
+
+table.pc-table tr td,
+table.pc-table tr th {
+	border-top: 1px solid #dedede;
+	border-left: 1px solid #dedede;
+}
+
+table.pc-table tr td:last-child,
+table.pc-table tr th:last-child {
+	border-right: 1px solid #dedede;
+}
+
+table.pc-table tr:last-child td,
+table.pc-table tr:last-child td {
+	border-bottom: 1px solid #dedede;
+}
+
+table.pc-table tr:first-child th:first-child {
+	-webkit-border-top-left-radius: 5px;
+	-moz-border-radius-topleft: 5px;
+	border-top-left-radius: 5px;
+}
+table.pc-table tr:first-child th:last-child {
+	-webkit-border-top-right-radius: 5px;
+	-moz-border-radius-topright: 5px;
+	border-top-right-radius: 5px;
+}
+table.pc-table .status{
+	float:left;
+	color:#b2b2b2;
+	padding-right:19px;
+}
+table.pc-table td{
+	height:40px;
+	vertical-align:middle;
+	background-color:#fff;
+	color:#999;
+	font-size:10px;
+	line-height:14px;
+	padding: 0 15px;
+}

@@ -1,0 +1,45 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:19:47 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:33:48 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:34:12 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:34:45 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:35:04 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:35:21 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 146
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: bidang D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 147
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: comnam D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 149
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: websit D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 150
+ERROR - 2023-03-10 09:59:32 --> Severity: Notice --> Undefined variable: emilct D:\xampp\htdocs\jconnect\application\views\v_kandidat_detail.php 151
+ERROR - 2023-03-10 13:58:36 --> Severity: Error --> Maximum execution time of 30 seconds exceeded D:\xampp\htdocs\jconnect\system\database\drivers\mysqli\mysqli_driver.php 203
